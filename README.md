@@ -5,12 +5,12 @@ kubernetes-elasticsearch-deployment
 
 ## Version
 
-Kibana - 6.2.3
+Kibana - 6.2.4
 
 ## Usage
 
 ```
-docker run -it vulgarmadman/kibana:6.2.3
+docker run -it vulgarmadman/kibana:6.2.4
 ```
 
 ## Customise
@@ -20,5 +20,5 @@ To customise this image, update the `kibana.yml` file and rebuild the image
 ## Building
 
 ```
-docker build -t vulgarmadman/docker-kibana:6.2.3 .
+docker build -t vulgarmadman/docker-kibana:6.2.4 .
 ```
