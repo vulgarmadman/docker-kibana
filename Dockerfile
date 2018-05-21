@@ -1,4 +1,4 @@
-FROM docker.elastic.co/kibana/kibana-oss:6.2.3
+FROM docker.elastic.co/kibana/kibana-oss:6.2.4
 
 MAINTAINER VulgarMadMan <alex@ccautomation.uk>
 
